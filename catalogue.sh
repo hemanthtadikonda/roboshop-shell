@@ -15,4 +15,4 @@ yum install mongodb-org-shell -y
 # update mongodb internal ip here
 mongo --host MONGODB-SERVER-IPADDRESS </app/schema/catalogue.js
 systemctl enable catalogue
-systemctl start catalogue
+systemctl restart catalogue
