@@ -16,4 +16,4 @@ systemctl restart user
 
 yum install mongodb-org-shell -y
 #update mongodb ip address here
-mongo --host MONGODB-SERVER-IPADDRESS </app/schema/user.js
+mongo --host mongodb.tadikonda.online </app/schema/user.js

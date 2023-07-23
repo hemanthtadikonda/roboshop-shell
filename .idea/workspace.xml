@@ -4,7 +4,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="21ed3e4e-8e58-43dd-9d85-b4ffc4d39e4d" name="Changes" comment="changes completed" />
+    <list default="true" id="21ed3e4e-8e58-43dd-9d85-b4ffc4d39e4d" name="Changes" comment="changes completed">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cart.service" beforeDir="false" afterPath="$PROJECT_DIR$/cart.service" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/catalogue.service" beforeDir="false" afterPath="$PROJECT_DIR$/catalogue.service" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/catalogue.sh" beforeDir="false" afterPath="$PROJECT_DIR$/catalogue.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dispatch.service" beforeDir="false" afterPath="$PROJECT_DIR$/dispatch.service" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend.conf" beforeDir="false" afterPath="$PROJECT_DIR$/frontend.conf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/payment.service" beforeDir="false" afterPath="$PROJECT_DIR$/payment.service" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shipping.service" beforeDir="false" afterPath="$PROJECT_DIR$/shipping.service" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shipping.sh" beforeDir="false" afterPath="$PROJECT_DIR$/shipping.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user.service" beforeDir="false" afterPath="$PROJECT_DIR$/user.service" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user.sh" beforeDir="false" afterPath="$PROJECT_DIR$/user.sh" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -12,6 +24,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2SrwRlKjWAM6wLpHuFpxc1hllSk" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -24,6 +39,12 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;last_opened_file_path&quot;: &quot;C:/Users/tadik/OneDrive/Documents/git-hub repo/roboshop-shell&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;ChangesTree.GroupingKeys&quot;: [
+      &quot;directory&quot;,
+      &quot;module&quot;
+    ]
   }
 }</component>
   <component name="RecentsManager">
@@ -144,7 +165,15 @@
       <option name="project" value="LOCAL" />
       <updated>1690089441039</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="changes completed">
+      <option name="closed" value="true" />
+      <created>1690089817067</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1690089817067</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

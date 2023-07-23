@@ -13,5 +13,5 @@ systemctl daemon-reload
 systemctl enable shipping
 yum install mysql -y
 # update mongodb ip address here
-mysql -h <MYSQL-SERVER-IPADDRESS> -uroot -pRoboShop@1 < /app/schema/shipping.sql
+mysql -h mysql.tadikonda.online -uroot -pRoboShop@1 < /app/schema/shipping.sql
 systemctl restart shipping

@@ -14,7 +14,7 @@ npm install
 
 yum install mongodb-org-shell -y
 # update mongodb internal ip here
-mongo --host MONGODB-SERVER-IPADDRESS </app/schema/catalogue.js
+mongo --host mongodb.tadikonda.online </app/schema/catalogue.js
 systemctl daemon-reload
 systemctl enable catalogue
 systemctl restart catalogue
